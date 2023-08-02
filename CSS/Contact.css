@@ -1,0 +1,155 @@
+nav{
+    border-radius: 3px;
+    top: 0px;
+    text-align: center;
+    height: 150px;
+    border: 2px black solid;
+    color: rgb(4, 46, 32);
+    background: linear-gradient(to right, #d6b9f0 , rgb(131, 84, 193) , #09747a ); 
+    position: static;  
+    font-family: "Tektur","Roboto";
+
+
+
+
+}
+nav a:hover{
+    background-color: rgb(255, 255, 255);height: 20px;
+    border: 0px black solid;
+    border-radius: 2px;
+    
+   
+}
+
+section{ 
+    text-align: center;
+    height: 1200px;
+    border: 1px black solid;
+    color: rgb(4, 46, 32);
+background: cornflowerblue;
+font-family:"Tektur","Roboto";
+
+}
+
+article{
+    text-align: center;
+    height: 1800px;
+    border: 1px black solid;
+    color: rgb(4, 46, 32);
+background: cornflowerblue;
+font-family: "Tektur","Roboto";
+    
+}
+
+footer{ 
+    text-align: center;
+    height: 200px;
+    border: 1px black solid;
+    color:rgb(4, 46, 32);
+    background: linear-gradient(to right, #d6b9f0 , rgb(131, 84, 193) , #09747a ); 
+    font-family: "Tektur","Roboto";
+    position: relative;
+    bottom: 0px;
+}
+
+.flex-container{
+    align-content: center;
+    justify-content: center;
+    column-gap: 50px;
+    display: flex;
+}
+
+.flex-container> div{
+    background-color: cornflowerblue;
+    margin: 10px;
+    padding: 20px;
+    border:solid 2px black;
+    border-radius: 200px;
+}
+
+.main{
+width: 100%;
+
+}
+
+.aside{
+    height: 120px;
+    display: inline-block;
+    width: 35%;
+    float: left;
+    clear: both;
+    
+    }
+
+
+li a:link{
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+
+
+
+}
+
+li a:hover{
+    background-color: rgb(255, 127, 223);height: 20px;
+    border: 2px black solid;
+    border-radius: 300px;
+    
+
+
+
+}
+
+li a:visited{
+    color: rgb(62, 4, 196);
+    
+
+
+
+}
+
+        div{
+        display: inline-block;
+        align-content: center;
+
+
+        }
+
+.logo{
+border:solid 2px black;
+border-radius: 200px ;
+}
+
+  .h1{
+    text-shadow: 1px 1px black
+      }
+    
+            p.contact-info-nice-paragraph{
+                letter-spacing: 1px;
+                line-height: 2.0;
+                font-size: x-large;
+                text-shadow: 2px 1px blueviolet;
+                
+                
+                
+                
+            }
+    
+.ul{
+font-size: x-large;
+
+
+
+
+
+}
+
+.h2{
+    font-size: x-large;
+text-decoration: overline;
+
+
+}
+
+
